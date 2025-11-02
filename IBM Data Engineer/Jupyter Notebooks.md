@@ -1,0 +1,4 @@
+- **Jupyter Notebooks:**
+    - Jupyter notebooks are an open-source web application that enables users to create and share documents containing live code, equations, visualizations, and narrative text.
+    - They support over 40 programming languages, including [[Python]], R, and Julia, making them versatile for data analysis.
+    - Notebooks can produce rich interactive outputs and can be shared easily via email, Dropbox, GitHub, etc.

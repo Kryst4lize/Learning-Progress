@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "cf4e513ae66745b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4450c23b0b3dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf41d5bd16794709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Data Engineer/Machine Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Pipeline"
+            }
+          },
+          {
+            "id": "98b8f29cb9f10de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IBM Machine Learning"
+            }
+          },
+          {
+            "id": "88fe190fef02d4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google/GDC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDC"
+            }
+          },
+          {
+            "id": "9963007b7276766d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "7cf9651a34789e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee6edba6d5f3ee5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a08015dc5883d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9867a91e5300837f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caeddec1c3277436",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd914d4dacd35653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "176d87d529a43c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b557907841f8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392a73a14664e32a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "76a7f46266a92e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "13c26546774b12fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "988cabc0a52ab839",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9963007b7276766d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "IBM Machine Learning.md",
+    "Google/GDC.md",
+    "Overview.md",
+    "Pasted image 20250725091557.png",
+    "Pasted image 20250725091843.png",
+    "Pasted image 20250812135233.png",
+    "IBM Data Engineer/Machine Pipeline.md",
+    "IBM AI Engineer",
+    "Google",
+    "IBM Data Engineer/Normalization.md",
+    "IBM/2025-07-25.md",
+    "IBM/Untitled.canvas",
+    "IBM/IBM/IBM/IBM/Big data.md",
+    "IBM/IBM/IBM/IBM",
+    "IBM/IBM/IBM",
+    "IBM Data Engineer/Unix & Linux.md",
+    "IBM Data Engineer/Query Data.md",
+    "IBM/IBM/Data Cubes and Operation Foundation.md",
+    "Docker.md",
+    "IBM Data Engineer/LightWeightUpdateCassandra.png",
+    "IBM Data Engineer/CassandraExample2.png",
+    "IBM Data Engineer/CassandraExample1.png",
+    "IBM Data Engineer/Cassandra_replication.png",
+    "IBM Data Engineer/Cassandra_dynamic_table_distribution.png",
+    "IBM Data Engineer/cassandra_distributed_architecture.png",
+    "IBM Data Engineer/Cassandra Best practices.md",
+    "IBM Data Engineer/CAPTheorem.png",
+    "IBM Data Engineer/CAP Theorem.md",
+    "IBM Data Engineer/Building Event Streaming Pipelines.md",
+    "IBM Data Engineer/Big data.md",
+    "IBM Data Engineer/Automating Database Task.md",
+    "IBM Data Engineer/Auditing.md",
+    "IBM Data Engineer/APIs.md",
+    "IBM Data Engineer/Apache Spark.md",
+    "IBM Data Engineer/Apache Kafka.md",
+    "IBM Data Engineer/Apache Cassandra.md",
+    "IBM Data Engineer/Apache Airflow.md",
+    "IBM/IBM/CassandraExample2.png~RF1ad39d.TMP",
+    "IBM/IBM/Dataframes_vs_Datasets.png~RF1ad0af.TMP",
+    "IBM/IBM/DynamictableCassandra.png~RF1acd15.TMP",
+    "IBM/IBM/HBase_Component.png~RF1aca17.TMP",
+    "IBM/IBM/Hive.md~RF1ac862.TMP",
+    "IBM/IBM/HIve_architecture.png~RF1ac6fb.TMP"
+  ]
+}

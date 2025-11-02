@@ -1,0 +1,16 @@
+- **Physical vs. Logical Storage**: Understanding the difference is crucial for DBAs [[Database Administrator]] . Logical storage allows for easier management without needing to know the physical storage details.
+- **Tablespaces**:
+    - Structures that contain database objects (e.g., tables, indexes).
+    - Help organize database objects based on their storage location.
+    - Allow for performance optimization by placing frequently accessed data on faster storage.
+- **Storage Groups**:
+    
+    - Groupings of storage paths or containers based on similar performance characteristics.
+    - Facilitate Multi-Temperature Data Management (organizing data based on access frequency: hot, warm, cold).
+- **Database Partitioning**:
+    - Involves managing data across multiple partitions for large datasets.
+    - Improves performance, especially in data warehousing and business intelligence scenarios.
+- **Benefits of Using Tablespaces and Storage Groups**:
+    - **Performance**: Optimizes data access speed.
+    - **Recoverability**: Simplifies backup and restore operations.
+    - **Storage Management**: Allows for dynamic expansion of storage as needed.
