@@ -1,0 +1,12 @@
+- **Definition**: A stored procedure is a set of SQL statements stored and executed on the database server.
+- **Benefits**:
+    - **Reduction in Network Traffic**: Only one call is needed to execute multiple statements.
+    - **Performance Improvement**: Processing occurs on the server where the data is stored.
+    - **Code Reusability**: Multiple applications can use the same stored procedure.
+    - **Increased Security**: Limits exposure of table and column information to client-side developers.
+- **Creation**:
+    - Use the `CREATE PROCEDURE` statement, specifying the procedure name and parameters.
+    - Enclose procedural logic within `BEGIN` and `END` statements.
+    - Change the delimiter to avoid confusion with statement endings.
+- **Calling Stored Procedures**: Use the `CALL` statement with the procedure name and required parameters.
+[[Struct Query Language (SQL)]] 

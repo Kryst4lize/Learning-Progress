@@ -1,0 +1,375 @@
+{
+  "main": {
+    "id": "cf4e513ae66745b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4450c23b0b3dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf41d5bd16794709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document-based NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Document-based NoSQL"
+            }
+          },
+          {
+            "id": "d3242fd1aa23763b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Key-values NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Key-values NoSQL"
+            }
+          },
+          {
+            "id": "e4da6513d54f267f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Column-Based NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Based NoSQL"
+            }
+          },
+          {
+            "id": "2e9026e87aca708b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/Column-Based NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Column-Based NoSQL"
+            }
+          },
+          {
+            "id": "9a29d3c83c019b4c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IBM/IBM/ROLLUPOperation.png"
+              },
+              "icon": "lucide-image",
+              "title": "ROLLUPOperation"
+            }
+          },
+          {
+            "id": "e654431f313a5ee3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IBM/IBM/CubeOperation.png"
+              },
+              "icon": "lucide-image",
+              "title": "CubeOperation"
+            }
+          },
+          {
+            "id": "119d43977b6a0fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/Distributed Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Architecture"
+            }
+          },
+          {
+            "id": "0975ba69ddd73552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/Distributed Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Architecture"
+            }
+          },
+          {
+            "id": "18af50b5641d9513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAP Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAP Theorem"
+            }
+          },
+          {
+            "id": "9bd7fb29ac781738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/NoSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL"
+            }
+          },
+          {
+            "id": "529d9379a98b57a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          },
+          {
+            "id": "eeeacffc0c72a86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBM/IBM/Distributed Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Architecture"
+            }
+          },
+          {
+            "id": "c17d1520ae0f0d55",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee6edba6d5f3ee5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a08015dc5883d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9867a91e5300837f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caeddec1c3277436",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd914d4dacd35653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "176d87d529a43c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b557907841f8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392a73a14664e32a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "76a7f46266a92e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "13c26546774b12fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "988cabc0a52ab839",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c17d1520ae0f0d55",
+  "lastOpenFiles": [
+    "IBM/IBM/CassandraExample2.png~RF1ad39d.TMP",
+    "IBM/IBM/Dataframes_vs_Datasets.png~RF1ad0af.TMP",
+    "IBM/IBM/DynamictableCassandra.png~RF1acd15.TMP",
+    "IBM/IBM/HBase_Component.png~RF1aca17.TMP",
+    "IBM/IBM/Hive.md~RF1ac862.TMP",
+    "IBM/IBM/HIve_architecture.png~RF1ac6fb.TMP",
+    "IBM/IBM/Kubernetes.md~RF1ac526.TMP",
+    "IBM/IBM/Mongodb_update.png~RF1abf59.TMP",
+    "IBM/IBM/MongoDB.md",
+    "IBM/IBM/ReplicationFactor.png~RF1ab0d3.TMP",
+    "IBM/IBM/Resilient Distributed Datasets_(RDD).md~RF1ab036.TMP",
+    "IBM/IBM/SelectOperatorCassandra.png~RF1aaf9a.TMP",
+    "IBM/IBM/InsertOperatorMongodb.png",
+    "IBM/IBM/queryOperatorMongodb4.png",
+    "IBM/IBM/queryOperatorMongodb2.png",
+    "IBM/IBM/queryOperatorMongodb3.png",
+    "IBM/IBM/queryOperatorMongodb.png",
+    "IBM/IBM/updateOperatorMongodb.png",
+    "IBM/IBM/deleteOperatorMongodb.png",
+    "ReplicationProcess.png",
+    "Replication.png",
+    "IBM/IBM/mongodbcreate.png",
+    "Untitled.md",
+    "IBM/IBM/Distributed Architecture.md",
+    "IBM/IBM/Data Warehouse.md",
+    "IBM/IBM/Data Warehouse Architecture.md",
+    "IBM/IBM/Data Cubes and Operation Foundation.md",
+    "IBM/IBM/Fact and Dimension Model.md",
+    "IBM/IBM/Star Schema and Snowflake Schema.md",
+    "IBM/IBM/Slowly Changing Dimensions (SCD).md",
+    "IBM/IBM/Data Quality Verification.md",
+    "IBM/IBM/Staging Area.md",
+    "IBM/IBM/Populate the Data Warehouse.md",
+    "IBM/IBM/NoSQL.md",
+    "IBM/IBM/Document-based NoSQL.md",
+    "IBM/IBM/Key-values NoSQL.md",
+    "IBM/IBM/Column-Based NoSQL.md",
+    "IBM/IBM/Graph NoSQL.md",
+    "IBM/IBM/Query Data.md",
+    "IBM/IBM/Views.md",
+    "IBM/IBM/Restore and Backup.md",
+    "IBM/IBM/Shell Script Sheet.md",
+    "IBM/IBM/Struct Query Language (SQL).md",
+    "IBM/IBM/System Objects.md",
+    "IBM/IBM/Transaction.md",
+    "IBM/IBM/Transaction Log.md"
+  ]
+}
